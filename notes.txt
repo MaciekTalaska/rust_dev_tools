@@ -86,3 +86,5 @@ Rust plugin:
 - Ctrl+Shift+P - get the type of expression selected
 - Ctrl+J
 - Ctrl+Alt+J
+
+https://intellij-rust.github.io/features/
